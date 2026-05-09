@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis-using-Power-BI-2
+# Bank-Customer-Churn-Analysis-using-Power-BI
 Business Problem
 
 A retail bank was experiencing customer attrition (churn) but lacked clear insights into:
